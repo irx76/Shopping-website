@@ -1,7 +1,10 @@
-import logo from './logo.svg';
+import ProductPage from "./components/ProductPage";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
+    <ProductPage/>
     
   );
 }
